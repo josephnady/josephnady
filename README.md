@@ -1,5 +1,5 @@
 ### Hi there 👋
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&pause=1000&color=F71818&center=true&vCenter=true&random=false&width=435&lines=My+Name+is+Joseph.;I+am+Passionate+About+Coding.;Welcome!+to+my+profile.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&pause=1000&color=F71818&center=false&vCenter=false&random=false&width=435&lines=My+Name+is+Joseph.;I+am+Passionate+About+Coding.;Welcome!+to+my+profile.)](https://git.io/typing-svg)
 <!--
 **josephnady/josephnady** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
